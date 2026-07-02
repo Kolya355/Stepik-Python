@@ -1,2 +1,2 @@
 # Stepik-Python
-My code from a course Generation of Python/Мой код из курса Поколение Python
+В этом репозитории представлен мой код из курса поколение Python на платформе Stepik
