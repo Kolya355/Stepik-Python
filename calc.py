@@ -31,6 +31,8 @@ elif choose == 2:
     b = float(input("Print variable b: "))
     a = float(input("Print variable a: "))
     c = float(input("Print variable c: "))
+    if a == 0:
+        print("'a' can't be 0")
     D = b**2 - 4*a*c
     if D > 0:
         x1 = (-b+D**0.5)/(2*a)
